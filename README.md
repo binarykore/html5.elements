@@ -55,3 +55,6 @@
 * < s > Represents contents that are inaccurate or irrelevant
 * < small > Represents side comments (like small print)
 * < u > Represents text needing attention like misspellings or Chinese proper name marks
+
+## Copyright (2021)
+* Compiled by BinaryKorra, 09225205353
