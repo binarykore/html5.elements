@@ -22,8 +22,6 @@
 * < time > Defines date and time
 * < wbr > Defines a possible line-break
  
-Other elements were also introduced. Some ease the use of forms, some help with graphics, others help with content like videos, images, or audio.
- 
 ## Media, Content & Graphics Elements:
  
 ### Element => Description
