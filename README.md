@@ -46,3 +46,14 @@
 * < output > Defines a calculation result
 * < progress > Indicates progress on a task
 * < meter > Defines a scalar measure or gauge
+
+## Other Elements:
+
+### Element => Description
+
+* < b > Represents words with extra attention like keywords (does not mean increased importance or changed voice or mood)
+* < i > Represents text with alternative voice or mood
+* < noscript > Presents fallback markup when scripting is not supported (not used in XML)
+* < s > Represents contents that are inaccurate or irrelevant
+* < small > Represents side comments (like small print)
+* < u > Represents text needing attention like misspellings or Chinese proper name marks
