@@ -56,5 +56,6 @@
 * < small > Represents side comments (like small print)
 * < u > Represents text needing attention like misspellings or Chinese proper name marks
 
-## Copyright (2021)
-* Compiled by BinaryKorra, 09225205353
+
+### Copyright since ( 2023 )
+( C ) - [BinaryKore](https://github.com/binarykore), 09225205353
